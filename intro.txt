@@ -1,0 +1,5 @@
+Hello, I am Phan Gia Thinh.
+Tôi đang học môn Git.
+Tôi thích công nghệ và lập trình.
+Sở thích: đọc sách, nghe nhạc, và học code.
+Kỹ năng: Git, Python, HTML.
