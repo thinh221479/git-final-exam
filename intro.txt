@@ -1,0 +1,4 @@
+Xin chào, tôi là Phan Gia Thịnh.
+Tôi hiện đang học về Git và quản lý mã nguồn.
+Sở thích: đọc sách, lập trình, du lịch.
+Kỹ năng: Git, Python, HTML/CSS.
