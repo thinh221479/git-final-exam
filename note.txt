@@ -1,0 +1,3 @@
+- Git giúp theo dõi lịch sử code.
+- GitHub giúp làm việc nhóm dễ dàng.
+- Git rất mạnh mẽ khi dùng đúng cách.
