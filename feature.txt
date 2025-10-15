@@ -1,0 +1,2 @@
+Tính năng mới: tự động ghi log commit
+Tính năng giúp dễ quản lý lịch sử.
